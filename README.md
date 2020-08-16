@@ -2,7 +2,7 @@
 # A Natural Language Pytorch Code Assistant
 
 # Example
-![Test Image 1](src/Screen Shot 2020-08-16 at 3.45.56 PM.png)
+![Test Image](src/Screen Shot 2020-08-16 at 3.45.56 PM.png)
 
 # Instructions
 First run `npm install`
